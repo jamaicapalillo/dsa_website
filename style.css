@@ -1,0 +1,1516 @@
+.member-jamaica {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.member-jamaica .div {
+    background-color: #000000;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+}
+
+.member-jamaica .group {
+    position: absolute;
+    width: 29px;
+    height: 6px;
+    top: 54px;
+    left: 41px;
+}
+
+.member-jamaica .ellipse {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 3px;
+}
+
+.member-jamaica .ellipse-2 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 12px;
+    background-color: #d9d9d9;
+    border-radius: 3px;
+}
+
+.member-jamaica .ellipse-3 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 23px;
+    background-color: #d9d9d9;
+    border-radius: 3px;
+}
+
+.member-jamaica .expand-left-light {
+    left: 87px;
+    position: absolute;
+    width: 35px;
+    height: 38px;
+    top: 35px;
+}
+
+.member-jamaica .img {
+    left: 130px;
+    position: absolute;
+    width: 35px;
+    height: 38px;
+    top: 35px;
+}
+
+.member-jamaica .overlap {
+    position: absolute;
+    width: 1959px;
+    height: 1019px;
+    top: 105px;
+    left: -63px;
+}
+
+.member-jamaica .rectangle {
+    position: absolute;
+    width: 435px;
+    height: 840px;
+    top: 2px;
+    left: 88px;
+    background-color: #1f1f1f;
+    border-radius: 7px;
+}
+
+.member-jamaica .rectangle-2 {
+    position: absolute;
+    width: 361px;
+    height: 840px;
+    top: 0;
+    left: 1598px;
+    background-color: #1f1f1f;
+    border-radius: 7px;
+}
+
+.member-jamaica .group-2 {
+    position: absolute;
+    width: 233px;
+    height: 55px;
+    top: 428px;
+    left: 1625px;
+}
+
+.member-jamaica .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff9114;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-2 {
+    position: absolute;
+    top: 39px;
+    left: 0;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .rectangle-3 {
+    position: absolute;
+    width: 1934px;
+    height: 181px;
+    top: 838px;
+    left: 0;
+    background-color: #000000;
+}
+
+.member-jamaica .group-3 {
+    position: absolute;
+    width: 103px;
+    height: 45px;
+    top: 888px;
+    left: 210px;
+}
+
+.member-jamaica .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff9114;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-4 {
+    position: absolute;
+    top: 29px;
+    left: 0;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .rectangle-4 {
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    top: 860px;
+    left: 96px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+}
+
+.member-jamaica .rectangle-5 {
+    position: absolute;
+    width: 1042px;
+    height: 840px;
+    top: 2px;
+    left: 537px;
+    background-color: #1f1f1f;
+    border-radius: 7px;
+}
+
+.member-jamaica .rectangle-6 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 564px;
+    left: 647px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+}
+
+.member-jamaica .text-wrapper-5 {
+    position: absolute;
+    top: 505px;
+    left: 574px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.member-jamaica .music-player-options {
+    position: absolute;
+    width: 866px;
+    height: 104px;
+    top: 856px;
+    left: 633px;
+}
+
+.member-jamaica .overlap-group {
+    position: absolute;
+    width: 774px;
+    height: 7px;
+    top: 89px;
+    left: 39px;
+}
+
+.member-jamaica .rectangle-7 {
+    position: absolute;
+    width: 626px;
+    height: 7px;
+    top: 0;
+    left: 148px;
+    background-color: #535353;
+    border-radius: 2.5px;
+}
+
+.member-jamaica .rectangle-8 {
+    position: absolute;
+    width: 626px;
+    height: 7px;
+    top: 0;
+    left: 0;
+    background-color: #c4c4c4;
+    border-radius: 2.5px;
+}
+
+.member-jamaica .text-wrapper-6 {
+    position: absolute;
+    width: 38px;
+    top: 80px;
+    left: 0;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #c4c4c4;
+    font-size: 14px;
+    letter-spacing: 0.56px;
+    line-height: normal;
+}
+
+.member-jamaica .text-wrapper-7 {
+    position: absolute;
+    width: 38px;
+    top: 80px;
+    left: 824px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #c4c4c4;
+    font-size: 14px;
+    letter-spacing: 0.56px;
+    line-height: normal;
+}
+
+.member-jamaica .raphael-shuffle {
+    position: absolute;
+    width: 29px;
+    height: 31px;
+    top: 18px;
+    left: 289px;
+}
+
+.member-jamaica .bx-bx-skip-previous {
+    position: absolute;
+    width: 38px;
+    height: 40px;
+    top: 12px;
+    left: 347px;
+}
+
+.member-jamaica .bx-bx-skip-previous-2 {
+    position: absolute;
+    width: 38px;
+    height: 40px;
+    top: 12px;
+    left: 468px;
+}
+
+.member-jamaica .gridicons-play {
+    position: absolute;
+    width: 62px;
+    height: 67px;
+    top: 0;
+    left: 394px;
+}
+
+.member-jamaica .fluent-arrow-repeat {
+    position: absolute;
+    width: 27px;
+    height: 29px;
+    top: 20px;
+    left: 535px;
+}
+
+.member-jamaica .right-options {
+    position: absolute;
+    width: 324px;
+    height: 35px;
+    top: 893px;
+    left: 1629px;
+}
+
+.member-jamaica .tabler-arrows {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 4px;
+    left: 298px;
+}
+
+.member-jamaica .fluent-speaker {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 7px;
+    left: 128px;
+}
+
+.member-jamaica .rectangle-9 {
+    position: absolute;
+    width: 125px;
+    height: 5px;
+    top: 18px;
+    left: 164px;
+    background-color: #c4c4c4;
+    border-radius: 2.5px;
+}
+
+.member-jamaica .carbon-laptop {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 7px;
+    left: 86px;
+}
+
+.member-jamaica .carbon-query-queue {
+    position: absolute;
+    width: 34px;
+    height: 35px;
+    top: 0;
+    left: 37px;
+}
+
+.member-jamaica .ph-microphone-stage {
+    position: absolute;
+    width: 24px;
+    height: 25px;
+    top: 8px;
+    left: 0;
+}
+
+.member-jamaica .group-4 {
+    position: absolute;
+    width: 14px;
+    height: 11px;
+    top: 19px;
+    left: 1928px;
+}
+
+.member-jamaica .group-5 {
+    position: absolute;
+    width: 29px;
+    height: 6px;
+    top: 22px;
+    left: 1882px;
+}
+
+.member-jamaica .add-ring {
+    top: 418px;
+    left: 1897px;
+    position: absolute;
+    width: 39px;
+    height: 37px;
+}
+
+.member-jamaica .add-ring-2 {
+    top: 885px;
+    left: 374px;
+    position: absolute;
+    width: 39px;
+    height: 37px;
+}
+
+.member-jamaica .gridicons-play-2 {
+    position: absolute;
+    width: 72px;
+    height: 74px;
+    top: 395px;
+    left: 561px;
+}
+
+.member-jamaica .horizontal-switch {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 411px;
+    left: 647px;
+}
+
+.member-jamaica .group-6 {
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    top: 435px;
+    left: 728px;
+}
+
+.member-jamaica .ellipse-4 {
+    position: absolute;
+    width: 6px;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 2.79px / 2.5px;
+}
+
+.member-jamaica .ellipse-5 {
+    position: absolute;
+    width: 6px;
+    height: 5px;
+    top: 0;
+    left: 11px;
+    background-color: #d9d9d9;
+    border-radius: 2.79px / 2.5px;
+}
+
+.member-jamaica .ellipse-6 {
+    position: absolute;
+    width: 6px;
+    height: 5px;
+    top: 0;
+    left: 21px;
+    background-color: #d9d9d9;
+    border-radius: 2.79px / 2.5px;
+}
+
+.member-jamaica .group-7 {
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    top: 592px;
+    left: 1533px;
+}
+
+.member-jamaica .group-8 {
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    top: 680px;
+    left: 1533px;
+}
+
+.member-jamaica .group-9 {
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    top: 767px;
+    left: 1533px;
+}
+
+.member-jamaica .text-wrapper-8 {
+    top: 588px;
+    position: absolute;
+    left: 610px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-9 {
+    top: 674px;
+    position: absolute;
+    left: 610px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-10 {
+    top: 761px;
+    position: absolute;
+    left: 610px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .p {
+    position: absolute;
+    top: 588px;
+    left: 753px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff9114;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-11 {
+    top: 584px;
+    position: absolute;
+    left: 1244px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-12 {
+    position: absolute;
+    top: 584px;
+    left: 1444px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-13 {
+    position: absolute;
+    top: 674px;
+    left: 1444px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-14 {
+    position: absolute;
+    top: 761px;
+    left: 1444px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-15 {
+    top: 758px;
+    position: absolute;
+    left: 1244px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-16 {
+    top: 663px;
+    position: absolute;
+    left: 1244px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-17 {
+    top: 758px;
+    left: 755px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-18 {
+    position: absolute;
+    top: 671px;
+    left: 753px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-19 {
+    position: absolute;
+    top: 27px;
+    left: 1630px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffc91a;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .overlap-wrapper {
+    position: absolute;
+    width: 322px;
+    height: 280px;
+    top: 525px;
+    left: 1623px;
+}
+
+.member-jamaica .overlap-2 {
+    position: relative;
+    width: 320px;
+    height: 280px;
+    background-color: #5b5959;
+    border-radius: 7px;
+}
+
+.member-jamaica .group-10 {
+    position: absolute;
+    width: 274px;
+    height: 45px;
+    top: 215px;
+    left: 14px;
+}
+
+.member-jamaica .text-wrapper-20 {
+    position: absolute;
+    top: 19px;
+    left: 10px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .image {
+    width: 290px;
+    height: 147px;
+    top: 60px;
+    left: 14px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.member-jamaica .image-2 {
+    width: 320px;
+    height: 330px;
+    top: 59px;
+    left: 1623px;
+    position: absolute;
+    object-fit: cover;
+}
+
+.member-jamaica .your-library {
+    position: absolute;
+    width: 147px;
+    height: 26px;
+    top: 35px;
+    left: 130px;
+}
+
+.member-jamaica .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 46px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: -1.14px;
+    line-height: normal;
+}
+
+.member-jamaica .library {
+    position: absolute;
+    width: 22px;
+    height: 23px;
+    top: 3px;
+    left: 0;
+}
+
+.member-jamaica .rectangle-10 {
+    position: absolute;
+    width: 1px;
+    height: 23px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.member-jamaica .rectangle-11 {
+    position: absolute;
+    width: 1px;
+    height: 23px;
+    top: 0;
+    left: 7px;
+    background-color: #ffffff;
+}
+
+.member-jamaica .rectangle-12 {
+    position: absolute;
+    width: 1px;
+    height: 24px;
+    top: -1px;
+    left: 17px;
+    background-color: #ffffff;
+    transform: rotate(-23.63deg);
+}
+
+.member-jamaica .add-round {
+    position: absolute;
+    width: 35px;
+    height: 32px;
+    top: 34px;
+    left: 413px;
+}
+
+.member-jamaica .arrow-right {
+    position: absolute;
+    width: 32px;
+    height: 36px;
+    top: 32px;
+    left: 463px;
+}
+
+.member-jamaica .ellipse-7 {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    top: 92px;
+    left: 458px;
+    background-color: #7f7f7f;
+    border-radius: 18.5px / 16.5px;
+}
+
+.member-jamaica .expand-right {
+    position: absolute;
+    width: 34px;
+    height: 40px;
+    top: 88px;
+    left: 461px;
+}
+
+.member-jamaica .search-light {
+    position: absolute;
+    width: 28px;
+    height: 30px;
+    top: 145px;
+    left: 123px;
+}
+
+.member-jamaica .text-wrapper-22 {
+    position: absolute;
+    width: 80px;
+    top: 147px;
+    left: 378px;
+    font-family: "Istok Web-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.member-jamaica .menu {
+    position: absolute;
+    width: 48px;
+    height: 43px;
+    top: 140px;
+    left: 455px;
+}
+
+.member-jamaica .overlap-group-wrapper {
+    position: absolute;
+    width: 102px;
+    height: 41px;
+    top: 88px;
+    left: 171px;
+}
+
+.member-jamaica .div-wrapper {
+    position: relative;
+    width: 100px;
+    height: 41px;
+    background-color: #d47100;
+    border-radius: 45px;
+    border: 0.6px solid;
+    border-color: #7f7f7f;
+}
+
+.member-jamaica .text-wrapper-23 {
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-family: "Chivo-Bold", Helvetica;
+    font-weight: 700;
+    color: #121212;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .close-ring-light {
+    position: absolute;
+    width: 36px;
+    height: 33px;
+    top: 92px;
+    left: 119px;
+}
+
+.member-jamaica .group-11 {
+    position: absolute;
+    width: 1015px;
+    height: 360px;
+    top: 22px;
+    left: 551px;
+}
+
+.member-jamaica .overlap-3 {
+    position: relative;
+    height: 360px;
+}
+
+.member-jamaica .rectangle-13 {
+    position: absolute;
+    width: 1015px;
+    height: 358px;
+    top: 2px;
+    left: 0;
+    background-color: #121212;
+}
+
+.member-jamaica .image-3 {
+    width: 1015px;
+    height: 325px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.member-jamaica .rectangle-14 {
+    position: absolute;
+    width: 1015px;
+    height: 359px;
+    top: 1px;
+    left: 0;
+    background: linear-gradient( 180deg, rgba(74.8, 74.8, 74.8, 0.35) 0%, rgba(18, 18, 18, 0.9) 65%);
+}
+
+.member-jamaica .group-12 {
+    position: absolute;
+    width: 800px;
+    height: 79px;
+    top: 243px;
+    left: 588px;
+}
+
+.member-jamaica .text-wrapper-24 {
+    position: absolute;
+    top: 63px;
+    left: 6px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-25 {
+    position: absolute;
+    width: 796px;
+    top: 0;
+    left: 0;
+    font-family: "Passion One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 90px;
+    letter-spacing: 0;
+    line-height: 16px;
+}
+
+.member-jamaica .text-wrapper-26 {
+    top: 250px;
+    left: 225px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-27 {
+    top: 334px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-28 {
+    position: absolute;
+    top: 412px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-29 {
+    position: absolute;
+    top: 505px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-30 {
+    position: absolute;
+    top: 586px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-31 {
+    position: absolute;
+    top: 667px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .text-wrapper-32 {
+    top: 753px;
+    left: 229px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .ellipse-8 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 228px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .cosare {
+    position: absolute;
+    width: 64px;
+    height: 70px;
+    top: 228px;
+    left: 109px;
+}
+
+.member-jamaica .ellipse-9 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 313px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .salangsang {
+    position: absolute;
+    width: 63px;
+    height: 69px;
+    top: 314px;
+    left: 109px;
+    object-fit: cover;
+}
+
+.member-jamaica .ellipse-10 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 398px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .paguio {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 403px;
+    left: 108px;
+    object-fit: cover;
+}
+
+.member-jamaica .ellipse-11 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 483px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .palillo {
+    position: absolute;
+    width: 152px;
+    height: 155px;
+    top: 440px;
+    left: 63px;
+    object-fit: cover;
+}
+
+.member-jamaica .ellipse-12 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 568px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .tiedra {
+    position: absolute;
+    width: 62px;
+    height: 67px;
+    top: 571px;
+    left: 110px;
+    object-fit: cover;
+}
+
+.member-jamaica .ellipse-13 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 651px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .mahaba {
+    position: absolute;
+    width: 67px;
+    height: 65px;
+    top: 656px;
+    left: 107px;
+    object-fit: cover;
+}
+
+.member-jamaica .ellipse-14 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 734px;
+    left: 106px;
+    background-color: #d9d9d9;
+    border-radius: 35px;
+}
+
+.member-jamaica .luciano {
+    position: absolute;
+    width: 67px;
+    height: 67px;
+    top: 737px;
+    left: 107px;
+    object-fit: cover;
+}
+
+.member-jamaica .adafb-b-a {
+    position: absolute;
+    width: 321px;
+    height: 330px;
+    top: 59px;
+    left: 1623px;
+}
+
+.member-jamaica .adafb-b-a-2 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 564px;
+    left: 647px;
+}
+
+.member-jamaica .adafb-b-a-3 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 735px;
+    left: 647px;
+}
+
+.member-jamaica .adafb-b-a-4 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 650px;
+    left: 647px;
+}
+
+.member-jamaica .adafb-b-a-5 {
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    top: 860px;
+    left: 96px;
+}
+
+.member-jamaica .group-13 {
+    position: absolute;
+    width: 330px;
+    height: 52px;
+    top: 32px;
+    left: 1547px;
+}
+
+.member-jamaica .group-14 {
+    position: absolute;
+    width: 173px;
+    height: 52px;
+    top: 0;
+    left: 0;
+}
+
+.member-jamaica .ellipse-15 {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    top: 0;
+    left: 121px;
+    background-color: #1f1f1f;
+    border-radius: 26px;
+}
+
+.member-jamaica .group-15 {
+    position: absolute;
+    width: 19px;
+    height: 20px;
+    top: 15px;
+    left: 63px;
+}
+
+.member-jamaica .overlap-group-2 {
+    position: absolute;
+    width: 16px;
+    height: 9px;
+    top: 0;
+    left: 2px;
+}
+
+.member-jamaica .ellipse-16 {
+    position: absolute;
+    width: 8px;
+    height: 9px;
+    top: 0;
+    left: 4px;
+    border-radius: 3.9px / 4.29px;
+    border: 1.5px solid;
+    border-color: #ffffff;
+}
+
+.member-jamaica .ellipse-17 {
+    position: absolute;
+    width: 6px;
+    height: 7px;
+    top: 0;
+    left: 9px;
+}
+
+.member-jamaica .ellipse-18 {
+    position: absolute;
+    width: 6px;
+    height: 7px;
+    top: 0;
+    left: 0;
+}
+
+.member-jamaica .overlap-4 {
+    position: absolute;
+    width: 21px;
+    height: 12px;
+    top: 9px;
+    left: -1px;
+}
+
+.member-jamaica .rectangle-15 {
+    position: absolute;
+    width: 16px;
+    height: 11px;
+    top: 1px;
+    left: 3px;
+}
+
+.member-jamaica .subtract {
+    left: 10px;
+    position: absolute;
+    width: 10px;
+    height: 9px;
+    top: 0;
+}
+
+.member-jamaica .subtract-2 {
+    left: 0;
+    position: absolute;
+    width: 10px;
+    height: 9px;
+    top: 0;
+}
+
+.member-jamaica .bell-light {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 14px;
+    left: 0;
+}
+
+.member-jamaica .group-16 {
+    position: absolute;
+    width: 110px;
+    height: 14px;
+    top: 14px;
+    left: 220px;
+}
+
+.member-jamaica .group-17 {
+    position: absolute;
+    width: 17px;
+    height: 14px;
+    top: 0;
+    left: 48px;
+}
+
+.member-jamaica .overlap-group-3 {
+    position: relative;
+    height: 14px;
+}
+
+.member-jamaica .rectangle-16 {
+    position: absolute;
+    width: 15px;
+    height: 12px;
+    top: 0;
+    left: 2px;
+    background-color: #000000;
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.member-jamaica .rectangle-17 {
+    position: absolute;
+    width: 15px;
+    height: 12px;
+    top: 2px;
+    left: 0;
+    background-color: #000000;
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.member-jamaica .line {
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    top: 6px;
+    left: -1px;
+}
+
+.member-jamaica .group-18 {
+    position: absolute;
+    width: 14px;
+    height: 11px;
+    top: 1px;
+    left: 97px;
+}
+
+.member-jamaica .overlap-5 {
+    position: absolute;
+    width: 622px;
+    height: 62px;
+    top: 25px;
+    left: 697px;
+    background-color: #1f1f1f;
+    border-radius: 30px;
+}
+
+.member-jamaica .search {
+    position: absolute;
+    width: 35px;
+    height: 36px;
+    top: 11px;
+    left: 16px;
+}
+
+.member-jamaica .text-wrapper-33 {
+    position: absolute;
+    top: 22px;
+    left: 79px;
+    font-family: "Chivo-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+}
+
+.member-jamaica .line-2 {
+    position: absolute;
+    width: 1px;
+    height: 29px;
+    top: 17px;
+    left: 523px;
+    object-fit: cover;
+}
+
+.member-jamaica .group-19 {
+    position: absolute;
+    width: 31px;
+    height: 24px;
+    top: 19px;
+    left: 555px;
+}
+
+.member-jamaica .overlap-6 {
+    position: relative;
+    height: 24px;
+}
+
+.member-jamaica .rectangle-18 {
+    position: absolute;
+    width: 22px;
+    height: 9px;
+    top: 0;
+    left: 5px;
+    background-color: #a8a8a8;
+}
+
+.member-jamaica .rectangle-19 {
+    position: absolute;
+    width: 19px;
+    height: 22px;
+    top: 2px;
+    left: 6px;
+    background-color: #1f1f1f;
+}
+
+.member-jamaica .rectangle-20 {
+    position: absolute;
+    width: 31px;
+    height: 14px;
+    top: 10px;
+    left: 0;
+}
+
+.member-jamaica .rectangle-21 {
+    position: absolute;
+    width: 28px;
+    height: 11px;
+    top: 12px;
+    left: 2px;
+}
+
+.member-jamaica .ellipse-19 {
+    position: absolute;
+    width: 6px;
+    height: 4px;
+    top: 15px;
+    left: 12px;
+    background-color: #a8a8a8;
+    border-radius: 3.24px / 1.94px;
+}
+
+.member-jamaica .group-wrapper {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    top: 25px;
+    left: 590px;
+    background-color: #1f1f1f;
+    border-radius: 31px;
+}
+
+.member-jamaica .group-20 {
+    position: relative;
+    width: 29px;
+    height: 35px;
+    top: 12px;
+    left: 17px;
+}
+
+.member-jamaica .overlap-group-4 {
+    position: relative;
+    height: 34px;
+    top: 1px;
+}
+
+.member-jamaica .rectangle-22 {
+    position: absolute;
+    width: 29px;
+    height: 33px;
+    top: 0;
+    left: 0;
+}
+
+.member-jamaica .rectangle-23 {
+    position: absolute;
+    width: 9px;
+    height: 14px;
+    top: 20px;
+    left: 10px;
+    background-color: #1f1f1f;
+    border-radius: 3px 3px 0px 0px;
+}
